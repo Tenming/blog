@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'zh-CN'
 title = '忘却旋律'
 theme = 'reimu'
