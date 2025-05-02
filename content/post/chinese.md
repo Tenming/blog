@@ -2,8 +2,8 @@
 title: 中文測試
 # description: 中文測試
 
-date: 2025-05-02 +08:00
-lastmod: 2025-05-02 +08:00
+date: 2025-05-02T20:12:52+08:00
+lastmod: 2025-05-02T20:12:52+08:00
 ---
 
 This is a Chinese test post.
