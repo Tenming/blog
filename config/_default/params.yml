@@ -104,11 +104,11 @@ footer:
     mask: true # whether to use the images as a mask
 
 # Sidebar
-sidebar: right
+sidebar: left
 
 social:
-  # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  email: s_xiansheng@qq.com
+  github: https://github.com/Tenming
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -439,8 +439,8 @@ article_copyright:
     author: true
     link: true
     title: false
-    date: false
-    updated: false
+    date: true
+    updated: true
     license: true
     license_type: by-nc-sa # https://creativecommons.org/licenses
 
@@ -551,7 +551,7 @@ service_worker:
 # Experimental
 live2d:
   enable: false
-  position: left # left or right
+  position: right # left or right
 
 # Experimental
 live2d_widgets:
@@ -609,7 +609,7 @@ material_theme:
   # more information: https://github.com/2061360308/material-theme
   # notice: when you enable this feature, all the covers will be automatically added "crossorigin" attribute to support the dynamic color scheme
   # so make sure your custom covers will not be blocked by the browser's CORS policy
-  enable: false # enable material_theme to generate dynamic color schemes based on the banner image
+  enable: true # enable material_theme to generate dynamic color schemes based on the banner image
 
 internal_theme:
   light:

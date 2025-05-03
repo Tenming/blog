@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>s_xiansheng@qq.com (忘却旋律)</managingEditor>
+    <webMaster>s_xiansheng@qq.com (忘却旋律)</webMaster>
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Thu, 09 Jun 2022 20:12:52 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 20:12:52 +0800</lastBuildDate>
     
     
     <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -24,11 +24,11 @@
     <item>
       <title>Markdown Basic Elements</title>
       <link>http://localhost:1313/post/main/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <pubDate>Fri, 02 May 2025 20:12:52 &#43;0800</pubDate>
+      <author>s_xiansheng@qq.com (忘却旋律)</author>
       <guid>http://localhost:1313/post/main/</guid>
       <description>
-        <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
           <h2 id="markdown-基本元素">
 <a class="header-anchor" href="#markdown-%e5%9f%ba%e6%9c%ac%e5%85%83%e7%b4%a0"></a>
@@ -89,7 +89,7 @@ Unordered List (ul)
 段落
 </h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <!-- raw HTML omitted -->Underline text<!-- raw HTML omitted --> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
         
-        <hr><p>本文2022-06-09首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2022-06-09</p>]]>
+        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
       </description>
       
         <category>test</category>

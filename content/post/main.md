@@ -102,7 +102,7 @@ Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipi
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 ```
 
-```rust {linenos=table,hl_lines=[8,"15-17"],linenostart=199}
+```rust {linenos=table,hl_lines=[8,"15-17"],linenostart=1}
 #[derive(Debug)]
 pub enum State {
     Start,

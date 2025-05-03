@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>s_xiansheng@qq.com (忘却旋律)</managingEditor>
+    <webMaster>s_xiansheng@qq.com (忘却旋律)</webMaster>
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Thu, 09 Jun 2022 20:12:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -22,19 +22,45 @@
     
 
     <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/1/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 &#43;0000</pubDate>
+      <author>s_xiansheng@qq.com (忘却旋律)</author>
+      <guid>http://localhost:1313/post/1/</guid>
+      <description>
+        <![CDATA[<h1>My First Post</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
+        
+          <h1 id="建立博客的原因">
+<a class="header-anchor" href="#%e5%bb%ba%e7%ab%8b%e5%8d%9a%e5%ae%a2%e7%9a%84%e5%8e%9f%e5%9b%a0"></a>
+建立博客的原因
+</h1><ul>
+<li>记录自己的学习</li>
+<li>分享自己的各种经验和知识</li>
+<li>分享下自己的生活</li>
+</ul>
+<p>仅仅想尽自己的可能去帮助别人</p>
+        
+        <hr><p>本文2025-05-03首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-03</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
       <title>中文測試</title>
       <link>http://localhost:1313/post/chinese/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <pubDate>Fri, 02 May 2025 20:12:52 &#43;0800</pubDate>
+      <author>s_xiansheng@qq.com (忘却旋律)</author>
       <guid>http://localhost:1313/post/chinese/</guid>
       <description>
-        <![CDATA[<h1>中文測試</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>中文測試</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
           <p>This is a Chinese test post.</p>
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。</p>
 <p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
         
-        <hr><p>本文2022-06-09首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2022-06-09</p>]]>
+        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
       </description>
       
     </item>
@@ -44,11 +70,11 @@
     <item>
       <title>Markdown Basic Elements</title>
       <link>http://localhost:1313/post/main/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <pubDate>Fri, 02 May 2025 20:12:52 &#43;0800</pubDate>
+      <author>s_xiansheng@qq.com (忘却旋律)</author>
       <guid>http://localhost:1313/post/main/</guid>
       <description>
-        <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
           <h2 id="markdown-基本元素">
 <a class="header-anchor" href="#markdown-%e5%9f%ba%e6%9c%ac%e5%85%83%e7%b4%a0"></a>
@@ -109,7 +135,7 @@ Unordered List (ul)
 段落
 </h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <!-- raw HTML omitted -->Underline text<!-- raw HTML omitted --> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
         
-        <hr><p>本文2022-06-09首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2022-06-09</p>]]>
+        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
       </description>
       
         <category>test</category>
