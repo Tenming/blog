@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>忘却旋律</title>
-    <link>http://localhost:1313/algolia.json</link>
+    <link>http://localhost:1313/blog/algolia.json</link>
     <description>Recent content from 忘却旋律</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/post/1/</link>
+      <link>http://localhost:1313/blog/post/1/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 &#43;0000</pubDate>
       <author>s_xiansheng@qq.com (忘却旋律)</author>
-      <guid>http://localhost:1313/post/1/</guid>
+      <guid>http://localhost:1313/blog/post/1/</guid>
       <description>
         <![CDATA[<h1>My First Post</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
@@ -40,7 +40,7 @@
 </ul>
 <p>仅仅想尽自己的可能去帮助别人</p>
         
-        <hr><p>本文2025-05-03首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-03</p>]]>
+        <hr><p>本文2025-05-03首发于<a href='http://localhost:1313/blog/'>忘却旋律</a>，最后修改于2025-05-03</p>]]>
       </description>
       
     </item>
@@ -49,10 +49,10 @@
 
     <item>
       <title>中文測試</title>
-      <link>http://localhost:1313/post/chinese/</link>
+      <link>http://localhost:1313/blog/post/chinese/</link>
       <pubDate>Fri, 02 May 2025 20:12:52 &#43;0800</pubDate>
       <author>s_xiansheng@qq.com (忘却旋律)</author>
-      <guid>http://localhost:1313/post/chinese/</guid>
+      <guid>http://localhost:1313/blog/post/chinese/</guid>
       <description>
         <![CDATA[<h1>中文測試</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
@@ -60,7 +60,7 @@
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。</p>
 <p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
         
-        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
+        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/blog/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
       </description>
       
     </item>
@@ -69,10 +69,10 @@
 
     <item>
       <title>Markdown Basic Elements</title>
-      <link>http://localhost:1313/post/main/</link>
+      <link>http://localhost:1313/blog/post/main/</link>
       <pubDate>Fri, 02 May 2025 20:12:52 &#43;0800</pubDate>
       <author>s_xiansheng@qq.com (忘却旋律)</author>
-      <guid>http://localhost:1313/post/main/</guid>
+      <guid>http://localhost:1313/blog/post/main/</guid>
       <description>
         <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：忘却旋律（s_xiansheng@qq.com）</p>
         
@@ -135,7 +135,7 @@ Unordered List (ul)
 段落
 </h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <!-- raw HTML omitted -->Underline text<!-- raw HTML omitted --> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
         
-        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
+        <hr><p>本文2025-05-02首发于<a href='http://localhost:1313/blog/'>忘却旋律</a>，最后修改于2025-05-02</p>]]>
       </description>
       
         <category>test</category>

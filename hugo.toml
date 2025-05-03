@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'http://localhost:1313/blog/'
 languageCode = 'zh-CN'
 title = '忘却旋律'
 theme = 'reimu'
